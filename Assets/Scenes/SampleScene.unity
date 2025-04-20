@@ -899,9 +899,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0af108350c4bc3d4fa54a15f6acf2bd1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Fade: {fileID: 0}
   audioSrc: {fileID: 1943534835}
-  musicBack: {fileID: 0}
 --- !u!1001 &1389243566
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1515,7 +1513,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4663523397225600178, guid: ab84de3250d3ee840a5b81606bb10c5a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: Scene2Load
+      value: onClickBtnStart
       objectReference: {fileID: 0}
     - target: {fileID: 4663523397225600178, guid: ab84de3250d3ee840a5b81606bb10c5a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
