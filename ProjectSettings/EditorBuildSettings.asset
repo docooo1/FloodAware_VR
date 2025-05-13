@@ -14,6 +14,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/TestScene.unity
     guid: db88e0f4cd252514ba7a9c1f368cc13e
+  - enabled: 1
+    path: Assets/Scenes/New Scene.unity
+    guid: 0bfffa9fb6cceb64f9156330f09b6315
+  - enabled: 1
+    path: Assets/Scenes/Flood Cause.unity
+    guid: 273c169e9653b72409d579b6778c83c4
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: a798e01980f2d2049b734cd3133745d6, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
